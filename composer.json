@@ -1,5 +1,5 @@
 {
-    "name": "drupal/content_block",
+    "name": "jmcerda/content_block",
     "type": "drupal-module",
     "description": "Display content (via view modes) using fieldable blocks.",
     "keywords": [
