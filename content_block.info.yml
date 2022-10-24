@@ -1,0 +1,6 @@
+name: 'Content Block'
+type: module
+description: 'Display content (via view modes) using fieldable blocks.'
+core_version_requirement: ^8 || ^9
+core: 8.x
+package: 'Custom'

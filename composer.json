@@ -1,0 +1,21 @@
+{
+    "name": "drupal/content_block",
+    "type": "drupal-module",
+    "description": "Display content (via view modes) using fieldable blocks.",
+    "keywords": [
+    ],
+    "authors": [
+        {
+            "name": "Jeremy Michael Cerda",
+            "email": "jmcerda03@protonmail.ch",
+            "homepage": "https://www.wilkesliberty.com",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://www.drupal.org/project/content_block",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/content_block",
+        "source": "http://cgit.drupalcode.org/content_block"
+    }
+}
